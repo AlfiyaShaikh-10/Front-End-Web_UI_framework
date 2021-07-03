@@ -1,3 +1,5 @@
+/*for home,contact pg*/
+
 .jumbotron {
     padding:70px 30px 70px 30px;
     margin:0px auto;
@@ -36,4 +38,8 @@ body{
 
 .navbar-dark {
      background-color: #512DA8;
+}
+
+.btn-warning{
+    padding: 0.5rem 3.5rem;
 }
